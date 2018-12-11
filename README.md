@@ -1,4 +1,4 @@
-# Tow.Redis
+# Tow.Redis 封装StackService.Redis和StackExChange.Redis
 
 Redis学习笔记
 Redis：Remote Dictionary Server 远程字典（内存）服务器
