@@ -1,6 +1,6 @@
-# Tow.Redis 封装StackService.Redis和StackExChange.Redis
+# Tow.Redis Redis学习笔记
 
-Redis学习笔记
+
 Redis：Remote Dictionary Server 远程字典（内存）服务器
 特点：
 基于内存管理、实现了多种数据结构、一个单线程模型的应用程序（原子性操作）、对外提供插入-查询-固化-集群的功能。
